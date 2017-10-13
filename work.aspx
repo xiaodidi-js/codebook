@@ -42,11 +42,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">STANLEY</a>
+          <a class="navbar-brand" href="index.aspx">STANLEY</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="work.html">Work</a></li>
+            <li><a href="work.aspx">Work</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="blog.html">Blog</a></li>
             <li><a href="contact.html">Contact</a></li>
@@ -68,29 +68,29 @@
 		</div>
 		<div class="row mt centered">	
 			<div class="col-lg-4">
-				<a class="zoom green" href="work_desc.html"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
+				<a class="zoom green" href="work_desc.aspx"><img class="img-responsive" src="assets/img/portfolio/port01.jpg" alt="" /></a>
 				<p>APE</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work_desc.html"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" /></a>
+				<a class="zoom green" href="work_desc.aspx"><img class="img-responsive" src="assets/img/portfolio/port02.jpg" alt="" /></a>
 				<p>RAIDERS</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work_desc.html"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" /></a>
+				<a class="zoom green" href="work_desc.aspx"><img class="img-responsive" src="assets/img/portfolio/port03.jpg" alt="" /></a>
 				<p>VIKINGS</p>
 			</div>
 		</div><!-- /row -->
 		<div class="row mt centered">	
 			<div class="col-lg-4">
-				<a class="zoom green" href="work_desc.html"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt="" /></a>
+				<a class="zoom green" href="work_desc.aspx"><img class="img-responsive" src="assets/img/portfolio/port04.jpg" alt="" /></a>
 				<p>YODA</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work_desc.html"><img class="img-responsive" src="assets/img/portfolio/port05.jpg" alt="" /></a>
+				<a class="zoom green" href="work_desc.aspx"><img class="img-responsive" src="assets/img/portfolio/port05.jpg" alt="" /></a>
 				<p>EMPERORS</p>
 			</div>
 			<div class="col-lg-4">
-				<a class="zoom green" href="work_desc.html"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" alt="" /></a>
+				<a class="zoom green" href="work_desc.aspx"><img class="img-responsive" src="assets/img/portfolio/port06.jpg" alt="" /></a>
 				<p>CHIEFS</p>
 			</div>
 		</div><!-- /row -->
@@ -99,34 +99,11 @@
 	
 	    <!-- +++++ Footer Section +++++ -->
 	
-	    <div id="footer">
+	   <div id="footer">
 		    <div class="container">
 			    <div class="row">
-				    <div class="col-lg-4">
-					    <h4>My Bunker</h4>
-					    <p>
-						    Some Address 987,<br/>
-						    +34 9054 5455, <br/>
-						    Madrid, Spain.
-					    </p>
-				    </div><!-- /col-lg-4 -->
-				
-				    <div class="col-lg-4">
-					    <h4>My Links</h4>
-					    <p>
-						    <a href="#">Dribbble</a><br/>
-						    <a href="#">Twitter</a><br/>
-						    <a href="#">Facebook</a>
-					    </p>
-				    </div><!-- /col-lg-4 -->
-				
-				    <div class="col-lg-4">
-					    <h4>About Stanley</h4>
-					    <p>This cute theme was created to showcase your work in a simple way. Use it wisely.</p>
-				    </div><!-- /col-lg-4 -->
-			
+                    <a href="http://www.miitbeian.gov.cn" class="ft-12">© 2017 - 粤ICP备15025692号</a>
 			    </div>
-		
 		    </div>
 	    </div>
 	
